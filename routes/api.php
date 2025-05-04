@@ -18,7 +18,7 @@
     </nav>
 
     <div class="container mt-4">
-         @yield('content') 
+<!--          @yield('content')  -->
     </div>
 
 </body>
